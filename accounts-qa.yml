@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to crazyBank accounts related QA APIs "
+  message: "Welcome to crazyBank accounts related QA APIs via github config "
   contactDetails:
     name: "Smitha Ray - QA Lead"
     email: "smitha@crazyBank.com"
