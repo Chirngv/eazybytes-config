@@ -32,3 +32,9 @@ loans:
   onCallSupport:
     - (555) 555-4444
     - (555) 565-4646
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
