@@ -28,7 +28,7 @@ accounts:
   message: "Welcome to java learners accounts service"
   contactDetails:
     name: "chiranjeevi"
-    email: "chiranjeevi.com"
+    email: "{cipher}dbe873447afba605b660b287ca4521345ae2089a9731ed09696962e68b5a01e3"
   onCallSupport:
     - (555) 555-4444
     - (555) 565-4646
