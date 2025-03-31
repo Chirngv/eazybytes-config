@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to crazyBank cards related production 2 APIs via github config "
+  message: "Welcome to crazyBank cards related production 2 APIs via web hook config "
   contactDetails:
     name: "Sandra Harald - Product Owner"
     email: "sandra@crazyBank.com"

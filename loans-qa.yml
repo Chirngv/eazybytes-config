@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 loans:
-  message: "Welcome to crazyBank loans related QA APIs via github config "
+  message: "Welcome to crazyBank loans related QA APIs via web hook config "
   contactDetails:
     name: "Cyrano Marita - QA Lead"
     email: "cyrano@crazyBank.com"
