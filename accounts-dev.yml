@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to java learners accounts service"
+  message: "Welcome to java learners web hook config accounts service"
   contactDetails:
     name: "John cena"
     email: "{cipher}aecdd23c90bbe74c16df17253cf3c5b91be2c3e0287d8d07059bd4d583361aef4577e48289bdf0aee7baf1a103e52a01"
