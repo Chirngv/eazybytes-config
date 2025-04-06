@@ -1,28 +1,5 @@
-server:
-  port: 8080
-
-spring:
-  application:
-    name: accounts
-
-  datasource:
-    url: jdbc:h2:mem:testdb
-    driverClassName: org.h2.Driver
-    userName: sa
-    password: ''
-
-  jpa:
-    hibernate:
-      ddl-auto: update
-    show-sql: true
-    database-platform: org.hibernate.dialect.H2Dialect
-
-  h2:
-    console:
-      enabled: true
-
 build:
-  version: "1.0"
+  version: "4.0"
 
 accounts:
   message: "Welcome to java learners web hook config accounts service"
@@ -32,9 +9,3 @@ accounts:
   onCallSupport:
     - (555) 555-4444
     - (555) 565-4646
-
-management:
-  endpoints:
-    web:
-      exposure:
-        include: "*"
